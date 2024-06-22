@@ -1,3 +1,5 @@
 # .gitignore
 config.json
 unused_data/
+data_final_cuisine.csv
+data_final_no_cuisine.csv
