@@ -27,7 +27,7 @@ Additionally, the webiste can also take text and adjust it to be appropriate for
 
 ### Prerequisites
 
-- Python 3.6 or higher
+- Python 3.11
 - pip
 
 ### Steps
