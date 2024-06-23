@@ -2,7 +2,7 @@
 
 # Review Classification and Adjustment Tool
 
-This app is meant to assess and address bias in restaurant reviews and it meant to be used in conjunction with the Review Classification Dashboard at [https://public.tableau.com/app/profile/marguerita.alting.von.geusau/viz/NLPdashboard/NLPDashboard](url).
+This app is meant to assess and address bias in restaurant reviews and it meant to be used in conjunction with the Review Classification Dashboard at [https://public.tableau.com/app/profile/marguerita.alting.von.geusau/viz/NLPdashboard/NLPDashboard](https://public.tableau.com/app/profile/marguerita.alting.von.geusau/viz/NLPdashboard/NLPDashboard).
 
 ## Table of Contents
 
